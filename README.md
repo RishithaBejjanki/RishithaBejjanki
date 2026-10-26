@@ -1,4 +1,6 @@
-## Hi there 👋
+## If the numbers are wrong, I already found it.
+
+Analytical professional with strong expertise in data analysis, visualization, and both descriptive and prescriptive analytics. Skilled at transforming complex business requirements into actionable insights using Power BI, Tableau, SQL, and Python, with experience spanning business analysis, data strategy, and cross-functional process improvement.
 
 <!--
 **RishithaBejjanki/RishithaBejjanki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
